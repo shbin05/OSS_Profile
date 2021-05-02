@@ -1,0 +1,44 @@
+h2
+{
+    font-family: "맑은 고딕";
+    font-weight: bold;
+}
+
+h4
+{
+    font-family: "맑은 고딕";
+    font-weight: bold;
+}
+
+#box 
+{
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(130, 134, 189, 0.5);
+}
+
+table
+{
+    border: 1.5px solid black;
+    text-align: center;
+    font-size: small;
+    font-weight: bold;
+    width: 655px;
+}
+
+th,td
+{
+    border: 1.5px solid black;
+}
+
+#head
+{
+    background-color: rgb(190, 230, 255);
+}
+
+
+
+
